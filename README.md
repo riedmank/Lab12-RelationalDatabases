@@ -10,3 +10,5 @@ This table is only a Join table. It takes keys from the Hotel Informationt table
 This table is a Joint Entity Table with a Payload. It takes data from the Hotel Information table and the Room Information table. It also adds information: Date of Guest Check In, Date of Guest Check Out, and Condition of Room at Checkout.
 ### Room Layout
 This enum holds Room Layouts including: Studio, One Bedroom, and Two Bedroom.  It is used exclusively by the Room Information table.
+
+![Database Schema](DatabaseSchema.jpg)
